@@ -1,0 +1,19 @@
+Nom de l'image : 039251_0
+Localisation : FRANCE
+ 
+Informations sur le système de projection
+ 
+Type de projection : Lambert 2 France
+Système géodésique : N.T.F.
+Ellipsoïde de référence :   Clarke 1880 IGN/RIG ELG010
+ 
+Informations de géoréférencement
+ 
+Distance à l'origine de projection(mètres)
+Unités utilisées : mètres
+Coin NW - Coordonnée X  : 584600
+Coin NW - Coordonnée Y  : 2438980
+ 
+Résolution de l'image(mètres)
+Résolution sur l'axe des X  : 20,00
+Résolution sur l'axe des Y  : 20,00
